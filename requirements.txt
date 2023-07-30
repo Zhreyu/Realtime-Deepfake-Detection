@@ -1,0 +1,5 @@
+torch>=1.9.0
+torchvision>=0.10.0
+facenet-pytorch>=2.5.2
+opencv-python>=4.5.3
+pytorch-grad-cam>=0.2.2
