@@ -29,7 +29,6 @@ Download the InceptionResnetV1 checkpoint file and place it in the root director
 To run the real-time deepfake detection on the video, execute the following command:
 
 ```bash
-Copy code
 python video_detection.py
 ```
 The program will process each frame of the video, detecting faces and applying the deepfake detection algorithm. The results will be displayed in a window showing the original video with bounding boxes around the detected faces and labels indicating whether they are real or deepfake. Press 'q' to exit the program.
