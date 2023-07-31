@@ -23,9 +23,9 @@ Install the required Python packages using pip:
 pip install -r requirements.txt
 ```
 Download the InceptionResnetV1 checkpoint file and place it in the root directory of the repository.
+
+
 # Usage
-
-
 To run the real-time deepfake detection on the video, execute the following command:
 
 ```bash
